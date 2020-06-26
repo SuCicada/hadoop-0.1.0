@@ -1,0 +1,2 @@
+- 先启动DataNode
+- 再启动NameNode
